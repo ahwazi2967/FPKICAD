@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "50YXG1000MEFCGC16X25") (type "KiCad") (uri "${KIPRJMOD}/lib/Symbol/50YXG1000MEFCGC16X25.kicad_sym") (options "") (descr ""))
+)
